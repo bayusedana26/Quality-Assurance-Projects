@@ -23,7 +23,7 @@ Comprehensive test plans and cases covering different applications and functiona
 - UI/UX Testing
 - Regression Testing
 
-📌 [QA Test Plan](https://drive.google.com/drive/folders/1I6TK8Zzp6675-fLmT04rj1hLsqqZh1VR?usp=sharing)
+📌 [QA Test Plan](https://drive.google.com/drive/folders/11lnS_O8YrXA3Ofe4l1Q9_nPJpVZSS1F2?usp=sharing)
 
 ---
 
