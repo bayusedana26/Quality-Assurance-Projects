@@ -35,7 +35,6 @@ Comprehensive test plans and cases covering different applications and functiona
 - **Performance Testing**: JMeter
 
 ## 📞 Contact Me
-📧 Email: [YourEmail@example.com]  
-🔗 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/yourprofile)  
+🔗 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/bayusedana26)  
 
 Feel free to explore my projects and reach out if you have any questions or opportunities! 🚀
