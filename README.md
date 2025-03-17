@@ -2,12 +2,7 @@
 
 Welcome to my QA portfolio! Here, you'll find various projects showcasing my expertise in software testing, both manual and automated.
 
-## About Me
-I specialize in Quality Assurance (QA) testing, focusing on both manual and automation testing. My projects include test planning, execution, automation scripts, and real-world testing scenarios.
-
-## Projects
-
-### 1. API Testing
+## 1. API Testing
 
 [Wibu TV](https://documenter.getpostman.com/view/15027153/TzJuBJ63)
 
@@ -15,7 +10,7 @@ I specialize in Quality Assurance (QA) testing, focusing on both manual and auto
 
 ---
 
-### 2. Game Testing
+## 2. Game Testing
 A detailed QA analysis of a game, including:
 - Test cases and scenarios
 - Bug reports
@@ -25,7 +20,7 @@ A detailed QA analysis of a game, including:
 
 ---
 
-### 3. Test Plan & Case Documentation
+## 3. Test Plan & Case Documentation
 Comprehensive test plans and cases covering different applications and functionalities, including:
 - Functional Testing
 - UI/UX Testing
