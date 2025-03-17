@@ -36,7 +36,7 @@ Comprehensive test plans and cases covering different applications and functiona
 
 ## Tools & Technologies
 - **Automation**: Selenium, Katalon Studio, Cypress
-- **Manual Testing**: JIRA
+- **Test Management**: JIRA
 - **Scripting**: Python, JavaScript, Java
 - **Mobile Testing**: Appium
 - **Performance Testing**: JMeter, K6
