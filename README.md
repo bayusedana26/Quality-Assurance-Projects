@@ -8,6 +8,10 @@ Welcome to my QA portfolio! Here, you'll find various projects showcasing my exp
 
 [Wash Me](https://documenter.getpostman.com/view/15027153/TzRSgTCb)
 
+[Writing Test](https://documenter.getpostman.com/view/15027153/2sAYkBu2Pw)
+
+[Reqres](https://documenter.getpostman.com/view/15027153/2sAYkBu2Py)
+
 ---
 
 ## 2. Game Testing
