@@ -7,7 +7,7 @@ I specialize in Quality Assurance (QA) testing, focusing on both manual and auto
 
 ## Projects
 
-### API Testing
+### 1. API Testing
 
 [Wibu TV](https://documenter.getpostman.com/view/15027153/TzJuBJ63)
 
@@ -15,7 +15,7 @@ I specialize in Quality Assurance (QA) testing, focusing on both manual and auto
 
 ---
 
-### Game Testing
+### 2. Game Testing
 A detailed QA analysis of a game, including:
 - Test cases and scenarios
 - Bug reports
@@ -25,7 +25,7 @@ A detailed QA analysis of a game, including:
 
 ---
 
-### Test Plan & Case Documentation
+### 3. Test Plan & Case Documentation
 Comprehensive test plans and cases covering different applications and functionalities, including:
 - Functional Testing
 - UI/UX Testing
