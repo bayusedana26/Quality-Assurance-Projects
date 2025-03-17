@@ -35,7 +35,7 @@ Comprehensive test plans and cases covering different applications and functiona
 - **Manual Testing**: JIRA
 - **Scripting**: Python, JavaScript, Java
 - **Mobile Testing**: Appium
-- **Performance Testing**: JMeter
+- **Performance Testing**: JMeter, K6
 
 ## Contact Me
 🔗 LinkedIn: [Bayu Sedana](https://linkedin.com/in/bayusedana)  
