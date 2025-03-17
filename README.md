@@ -12,8 +12,6 @@ Welcome to my QA portfolio! Here, you'll find various projects showcasing my exp
 
 [Reqres](https://documenter.getpostman.com/view/15027153/2sAYkBu2Py)
 
----
-
 ## 2. Game Testing
 A detailed QA analysis of a game, including:
 - Test cases and scenarios
@@ -22,8 +20,6 @@ A detailed QA analysis of a game, including:
 
 [QA Game Test Report](https://drive.google.com/drive/folders/1I6TK8Zzp6675-fLmT04rj1hLsqqZh1VR?usp=sharing)
 
----
-
 ## 3. Test Plan & Case Documentation
 Comprehensive test plans and cases covering different applications and functionalities, including:
 - Functional Testing
@@ -31,8 +27,6 @@ Comprehensive test plans and cases covering different applications and functiona
 - Regression Testing
 
 [QA Test Plan](https://drive.google.com/drive/folders/11lnS_O8YrXA3Ofe4l1Q9_nPJpVZSS1F2?usp=sharing)
-
----
 
 ## Tools & Technologies
 - **Automation**: Selenium, Katalon Studio, Cypress
