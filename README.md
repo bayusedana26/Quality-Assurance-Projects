@@ -1,40 +1,47 @@
-# 🛠️ Quality Assurance (QA) Projects
+# Quality Assurance (QA) Projects
 
 Welcome to my QA portfolio! Here, you'll find various projects showcasing my expertise in software testing, both manual and automated.
 
-## 🔍 About Me
+## About Me
 I specialize in Quality Assurance (QA) testing, focusing on both manual and automation testing. My projects include test planning, execution, automation scripts, and real-world testing scenarios.
 
-## 📂 Projects
+## Projects
 
-### 🎮 Game Testing
+### API Testing
+
+[Wibu TV](https://documenter.getpostman.com/view/15027153/TzJuBJ63)
+[Wash Me](https://documenter.getpostman.com/view/15027153/TzRSgTCb)
+
+---
+
+### Game Testing
 A detailed QA analysis of a game, including:
 - Test cases and scenarios
 - Bug reports
 - Performance testing results
 
-📌 [QA Game Test Report](https://drive.google.com/drive/folders/1I6TK8Zzp6675-fLmT04rj1hLsqqZh1VR?usp=sharing)
+[QA Game Test Report](https://drive.google.com/drive/folders/1I6TK8Zzp6675-fLmT04rj1hLsqqZh1VR?usp=sharing)
 
 ---
 
-### 📑 Test Plan & Case Documentation
+### Test Plan & Case Documentation
 Comprehensive test plans and cases covering different applications and functionalities, including:
 - Functional Testing
 - UI/UX Testing
 - Regression Testing
 
-📌 [QA Test Plan](https://drive.google.com/drive/folders/11lnS_O8YrXA3Ofe4l1Q9_nPJpVZSS1F2?usp=sharing)
+[QA Test Plan](https://drive.google.com/drive/folders/11lnS_O8YrXA3Ofe4l1Q9_nPJpVZSS1F2?usp=sharing)
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Automation**: Selenium, Katalon Studio
-- **Manual Testing**: TestRail, JIRA
-- **Scripting**: Python, JavaScript
+## Tools & Technologies
+- **Automation**: Selenium, Katalon Studio, Cypress
+- **Manual Testing**: JIRA
+- **Scripting**: Python, JavaScript, Java
 - **Mobile Testing**: Appium
 - **Performance Testing**: JMeter
 
-## 📞 Contact Me
+## Contact Me
 🔗 LinkedIn: [Bayu Sedana](https://linkedin.com/in/bayusedana)  
 
-Feel free to explore my projects and reach out if you have any questions or opportunities! 🚀
+Feel free to explore my projects and reach out if you have any questions or opportunities!
